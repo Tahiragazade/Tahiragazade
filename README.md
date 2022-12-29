@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tahiragazade
 - 👀 I’m interested in backend developer on PHP
 - 🌱 I’m currently learning React
-#- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via agazadetahir@gmail.com
 
 <!---
